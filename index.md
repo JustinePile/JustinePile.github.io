@@ -1,13 +1,25 @@
 ## Selected projects in data science, machine learning and software engineering
+---
 
+### Evaluates various establishments across the United Kingdom using PyMongo
+The scenario for this project was to evaluate some ratings data in order to help journalists and food critics decide where to focus future articles. Uses a JSON file to create a MongoDB database and then PyMongo in a Jupyter Notebook to anlayze the database.
 
+![PyMongo Project](images/no_sql.png)
+
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+[View code on GitHub](https://github.com/JustinePile/nosql-challenge)
+
+---
 
 ### PostgreSQL project to research about people whom a company employed during the 1980s and 1990s
 Created an ERD to map out the database to be created, then created a schema SQL file, and finally created a queries SQL file to do data analysis.
 
 ![ERD](images/ERD.png)
 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
+[View code on GitHub](https://github.com/JustinePile/sql-challenge)
 
 ---
 
@@ -16,7 +28,7 @@ Created an ERD to map out the database to be created, then created a schema SQL 
 Utilizes the OpenWeatherMap API to collect data for analysis of relationships between variables to ultimately allow the data to be filtered so as to only have cities with idealized weather conditions. Then, using the Geoapify API, finds the nearest hotel to each city and plots that on a map.
 ![OpenWeatherMap API usage](images/APIs.png)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 [View code on GitHub](https://github.com/JustinePile/python-api-challenge)
 
