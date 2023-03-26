@@ -3,7 +3,7 @@
 
 ### Using the OpenWeatherMap and Geoapify Python API's
 
-Utilizes the OpenWeatherMap API to collect data for analysis of relationships between variables to ultimatly filter the data to only have cities with idealized weather conditions. Then using the Geoapify API, finds the nearest hotel to each city and plots that on a map.
+Utilizes the OpenWeatherMap API to collect data for analysis of relationships between variables to ultimately allow the data to be filtered so as to only have cities with idealized weather conditions. Then, using the Geoapify API, finds the nearest hotel to each city and plots that on a map.
 ![OpenWeatherMap API usage](images/APIs.png)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
