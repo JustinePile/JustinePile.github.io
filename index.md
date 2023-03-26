@@ -1,6 +1,16 @@
 ## Selected projects in data science, machine learning and software engineering
 
 
+
+### PostgreSQL project to research about people whom a company employed during the 1980s and 1990s
+Created an ERD to map out the database to be created, then created a schema SQL file, and finally created a queries SQL file to do data analysis.
+
+![ERD](images/ERD.png)
+
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
 ### Using the OpenWeatherMap and Geoapify Python API's
 
 Utilizes the OpenWeatherMap API to collect data for analysis of relationships between variables to ultimately allow the data to be filtered so as to only have cities with idealized weather conditions. Then, using the Geoapify API, finds the nearest hotel to each city and plots that on a map.
