@@ -1,7 +1,7 @@
 ## Selected projects in data science, machine learning and software engineering
 ---
 
-### Evaluates various establishments across the United Kingdom using PyMongo
+### Evaluating various establishments across the United Kingdom using PyMongo
 The scenario for this project was to evaluate some ratings data in order to help journalists and food critics decide where to focus future articles. Uses a JSON file to create a MongoDB database and then PyMongo in a Jupyter Notebook to anlayze the database.
 
 ![PyMongo Project](images/no_sql.png)
