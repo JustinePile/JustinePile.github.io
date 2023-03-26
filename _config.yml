@@ -1,11 +1,11 @@
 title: Justine Pile # your name (or website title) here
-logo: "/images/profile.jpg?raw=true" # your photo (or logo) here
+logo: "/images/profile.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
   Data scientist with Bachelors of Information Technology (IT) currently attending UCI Data Analyst Bootcamp, 5+ years working in IT, and 6+ years working in healthcare.
   <br><br>
-<p>  <a href="https://www.linkedin.com/in/CactusCoder/">View my LinkedIn</a> </p>
-<p>  <a href="https://www.github.com/JustinePile/">View my GitHub</a> </p>
+  <a href="https://www.linkedin.com/in/CactusCoder/">View my LinkedIn</a><br>
+  <a href="https://www.github.com/JustinePile/">View my GitHub</a>
   
 theme: jekyll-theme-minimal
 google_analytics: G-T3S6S8J6YS # your Google Analytics tracking ID here
