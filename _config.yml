@@ -1,12 +1,11 @@
 title: Justine Pile # your name (or website title) here
-logo: "/images/linkedin.jpg?raw=true" # your photo (or logo) here
+logo: "/images/profile.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
-  Data Scientist with 4+ years of commercial experience in analytics, strategy and sales and a master's degree in Data Science from Oxford University. Previously at Vodafone, VIMA Group (management consulting), Ovo Energy, HSBC.
+  Data scientist with Bachelors of Information Technology (IT) currently attending UCI Data Analyst Bootcamp, 5+ years working in IT, and 6+ years working in healthcare.
   <br><br>
-  Ranked in top 10% of undergraduate cohort at Cambridge University.
-  <br><br>
-  <a href="https://www.linkedin.com/in/matt-chapman-ba8488118/">View my LinkedIn Profile</a> 
+<p>  <a href="https://www.linkedin.com/in/CactusCoder/">View my LinkedIn</a> </p>
+<p>  <a href="https://www.github.com/JustinePile/">View my GitHub</a> </p>
   
 theme: jekyll-theme-minimal
 google_analytics: G-T3S6S8J6YS # your Google Analytics tracking ID here
