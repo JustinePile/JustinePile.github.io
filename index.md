@@ -16,6 +16,7 @@ The scenario for this project was to evaluate some ratings data in order to help
 Created an ERD to map out the database to be created, then created a schema SQL file, and finally created a queries SQL file to do data analysis.
 
 ![ERD](images/ERD.png)
+![SQL Queries](images/sql_queries.png)
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
