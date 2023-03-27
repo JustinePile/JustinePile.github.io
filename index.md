@@ -16,7 +16,7 @@ Group project where we used Python dataframes and Matplotlib visualizations to a
 ### Evaluating various establishments across the United Kingdom using PyMongo
 The scenario for this project was to evaluate some ratings data in order to help journalists and food critics decide where to focus future articles. Uses a JSON file to create a MongoDB database and then PyMongo in a Jupyter Notebook to anlayze the database.
 
-<img src="images/no_sql.png" width="50%" height="auto"> 
+![PyMongo](images/no_sql.png)   
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
