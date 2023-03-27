@@ -45,5 +45,15 @@ VBA Excel script to loop through a spreadsheet of stock data and give various ou
 
 ---
 
+### PowerBI report of NYC EITC and Manhattan home sales
+
+A brief report of NYC EITC total claims, total credit amount claimed, and average credit recieved, along with a brief report of Manhattan home sales by neighborhood.
+
+[View report PDF](https://github.com/JustinePile/Power_BI/blob/main/Predictive%20Data%20Lab.pdf)   
+[View code on GitHub](https://github.com/JustinePile/Power_BI)
+
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+
 <!-- https://github.com/Ileriayo/markdown-badges -->
 <!-- [![](https://img.shields.io/badge/R-white?logo=R)](#) [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#) [![](https://img.shields.io/badge/LIME-white?logo=LIME)](#) [![](https://img.shields.io/badge/SHAP-white?logo=SHAP)](#) [![](https://img.shields.io/badge/Anaconda-white?logo=anaconda)](#) [![](https://img.shields.io/badge/Geopandas-white?logo=Geopandas)](#) [![](https://img.shields.io/badge/Bash-white?logo=GNUbash)](#) [![](https://img.shields.io/badge/MongoDB-white?logo=mongodb)](#) -->
