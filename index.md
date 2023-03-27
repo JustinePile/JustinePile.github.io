@@ -53,7 +53,7 @@ WeatherPy utilizes the OpenWeatherMap API to collect data for analysis of relati
 
 VBA Excel script to loop through a spreadsheet of stock data and give various outputs including the yearly change in price for each stock as well as the percentage change, the greatest percent increase and the greatest percent decrease, and the greatest total volume.
 
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) <img src="images/VBA_logo.png" style="background-color:white" width="12%" height="12%"> 
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) <img src="images/VBA_logo.png" style="background-color:white" width="15%" height="15%"> 
 
 [View code on GitHub](https://github.com/JustinePile/VBA-challenge)
 
