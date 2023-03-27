@@ -45,7 +45,7 @@ WeatherPy utilizes the OpenWeatherMap API to collect data for analysis of relati
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 [View WeatherPy notebook](https://github.com/JustinePile/python-api-challenge/blob/main/WeatherPy/WeatherPy.ipynb)   
-[View VacationPy notebook](https://github.com/JustinePile/python-api-challenge/blob/main/VacationPy/VacationPy.ipynb)
+[View VacationPy notebook](https://github.com/JustinePile/python-api-challenge/blob/main/VacationPy/VacationPy.ipynb)   
 [View code on GitHub](https://github.com/JustinePile/python-api-challenge)
 
 ---
