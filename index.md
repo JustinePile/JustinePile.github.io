@@ -4,7 +4,7 @@
 
 Group project where we analyzed the impact of three social determinants of health (insurance, crowding, and income) on COVID-19 cases. I performed data manipulation and created the visuals.
 
-![COVID-19 Project](images/project_1.png)
+![COVID-19 Project](images/project1.png)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) 
 
