@@ -1,5 +1,14 @@
 ## Selected projects in data science, machine learning and software engineering
 ---
+### An analysis of the impact of social determinants of health on COVID-19 case rates in California
+
+Group project where we analyzed the impact of three social determinants of health (insurance, crowding, and income) on COVID-19 cases. I performed data manipulation and created the visuals.
+
+![COVID-19 Project](images/project_1.png)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) 
+
+---
 
 ### Evaluating various establishments across the United Kingdom using PyMongo
 The scenario for this project was to evaluate some ratings data in order to help journalists and food critics decide where to focus future articles. Uses a JSON file to create a MongoDB database and then PyMongo in a Jupyter Notebook to anlayze the database.
