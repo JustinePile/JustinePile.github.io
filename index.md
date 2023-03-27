@@ -2,18 +2,21 @@
 ---
 ### An analysis of the impact of social determinants of health on COVID-19 case rates in California
 
-Group project where we analyzed the impact of three social determinants of health (insurance, crowding, and income) on COVID-19 cases. I performed data manipulation and created the visuals.
+Group project where we used Python dataframes and Matplotlib visualizations to analyze the impact of three social determinants of health (insurance, crowding, and income) on COVID-19 cases. For this project, I performed initial data manipulation and created the visualizations.
 
 ![COVID-19 Project](images/project1.png)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23eeeeee.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) 
+
+[View report PDF](https://github.com/JustinePile/Project_1/blob/main/Project%201%20Slide%20Deck.pdf)
+[View code on GitHub](https://github.com/JustinePile/Project_1/)
 
 ---
 
 ### Evaluating various establishments across the United Kingdom using PyMongo
 The scenario for this project was to evaluate some ratings data in order to help journalists and food critics decide where to focus future articles. Uses a JSON file to create a MongoDB database and then PyMongo in a Jupyter Notebook to anlayze the database.
 
-![PyMongo Project](images/no_sql.png)
+<img src="images/no_sql.png" width="50%" height="auto"> 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
