@@ -8,7 +8,7 @@ Group project where we used Python dataframes and Matplotlib visualizations to a
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23eeeeee.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) 
 
-[View report PDF](https://github.com/JustinePile/Project_1/blob/main/Project%201%20Slide%20Deck.pdf)
+[View report PDF](https://github.com/JustinePile/Project_1/blob/main/Project%201%20Slide%20Deck.pdf)   
 [View code on GitHub](https://github.com/JustinePile/Project_1/)
 
 ---
