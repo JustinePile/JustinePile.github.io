@@ -46,7 +46,7 @@ WeatherPy utilizes the OpenWeatherMap API to collect data for analysis of relati
 
 <a href="https://github.com/JustinePile/python-api-challenge/blob/main/WeatherPy/WeatherPy.ipynb" target="_blank" rel="noopener noreferrer">View WeatherPy Notebook</a>
 <br><a href="https://github.com/JustinePile/python-api-challenge/blob/main/VacationPy/VacationPy.ipynb" target="_blank" rel="noopener noreferrer">View VacationPy Notebook</a>
-<br><a href="https://github.com/JustinePile/python-api-challenge target="_blank" rel="noopener noreferrer">View code on GitHub</a>
+<br><a href="https://github.com/JustinePile/python-api-challenge" target="_blank" rel="noopener noreferrer">View code on GitHub</a>
 
 ---
 
@@ -57,6 +57,7 @@ VBA Excel script to loop through a spreadsheet of stock data and give various ou
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) <img src="images/VBA_logo.png" style="background-color:white" width="20%" height="20%"> 
 
 <a href="https://github.com/JustinePile/VBA-challenge" target="_blank" rel="noopener noreferrer">View code on GitHub</a>
+
 ---
 
 ### PowerBI report of NYC EITC and Manhattan home sales
