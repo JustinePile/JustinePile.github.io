@@ -50,7 +50,7 @@ WeatherPy utilizes the OpenWeatherMap API to collect data for analysis of relati
 
 ---
 
-### Visual Basic for Applications script to analyze stock data in Microsoft Excel
+### Visual Basic for Applications macro script to analyze stock data in Microsoft Excel
 
 VBA Excel script to loop through a spreadsheet of stock data and give various outputs including the yearly change in price for each stock as well as the percentage change, the greatest percent increase and the greatest percent decrease, and the greatest total volume.
 
