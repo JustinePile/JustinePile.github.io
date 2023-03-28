@@ -64,10 +64,11 @@ VBA Excel script to loop through a spreadsheet of stock data and give various ou
 
 A brief report of NYC EITC total claims, total credit amount claimed, and average credit recieved, along with a brief report of Manhattan home sales by neighborhood.
 
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+
 <a href="https://github.com/JustinePile/Power_BI/blob/main/Predictive%20Data%20Lab.pdf" target="_blank" rel="noopener noreferrer">View report PDF</a>
 <br><a href="https://github.com/JustinePile/Power_BI" target="_blank" rel="noopener noreferrer">View code on GitHub</a>
-
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
