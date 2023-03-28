@@ -20,7 +20,7 @@ The scenario for this project was to evaluate some ratings data in order to help
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-[View code on GitHub](https://github.com/JustinePile/nosql-challenge)
+<a href="https://github.com/JustinePile/nosql-challenge" target="_blank" rel="noopener noreferrer">View code on GitHub</a>
 
 ---
 
@@ -32,7 +32,7 @@ Created an ERD to map out the database to be created, then created a schema SQL 
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-[View code on GitHub](https://github.com/JustinePile/sql-challenge)
+<a href="https://github.com/JustinePile/sql-challenge" target="_blank" rel="noopener noreferrer">View code on GitHub</a>
 
 ---
 
@@ -44,9 +44,9 @@ WeatherPy utilizes the OpenWeatherMap API to collect data for analysis of relati
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-[View WeatherPy notebook](https://github.com/JustinePile/python-api-challenge/blob/main/WeatherPy/WeatherPy.ipynb)   
-[View VacationPy notebook](https://github.com/JustinePile/python-api-challenge/blob/main/VacationPy/VacationPy.ipynb)   
-[View code on GitHub](https://github.com/JustinePile/python-api-challenge)
+<a href="https://github.com/JustinePile/python-api-challenge/blob/main/WeatherPy/WeatherPy.ipynb" target="_blank" rel="noopener noreferrer">View WeatherPy Notebook</a>
+<br><a href="https://github.com/JustinePile/python-api-challenge/blob/main/VacationPy/VacationPy.ipynb" target="_blank" rel="noopener noreferrer">View VacationPy Notebook</a>
+<br><a href="https://github.com/JustinePile/python-api-challenge target="_blank" rel="noopener noreferrer">View code on GitHub</a>
 
 ---
 
@@ -56,16 +56,15 @@ VBA Excel script to loop through a spreadsheet of stock data and give various ou
 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) <img src="images/VBA_logo.png" style="background-color:white" width="20%" height="20%"> 
 
-[View code on GitHub](https://github.com/JustinePile/VBA-challenge)
-
+<a href="https://github.com/JustinePile/VBA-challenge" target="_blank" rel="noopener noreferrer">View code on GitHub</a>
 ---
 
 ### PowerBI report of NYC EITC and Manhattan home sales
 
 A brief report of NYC EITC total claims, total credit amount claimed, and average credit recieved, along with a brief report of Manhattan home sales by neighborhood.
 
-[View report PDF](https://github.com/JustinePile/Power_BI/blob/main/Predictive%20Data%20Lab.pdf)   
-[View code on GitHub](https://github.com/JustinePile/Power_BI)
+<a href="https://github.com/JustinePile/Power_BI/blob/main/Predictive%20Data%20Lab.pdf" target="_blank" rel="noopener noreferrer">View report PDF</a>
+<br><a href="https://github.com/JustinePile/Power_BI" target="_blank" rel="noopener noreferrer">View code on GitHub</a>
 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
