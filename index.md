@@ -6,7 +6,7 @@ Group project where we used Python dataframes and Matplotlib visualizations to a
 
 ![COVID-19 Project](images/project1.png)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23eeeeee.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23eeeeee.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) 
 
 <a href="https://github.com/JustinePile/Project_1/blob/main/Project%201%20Slide%20Deck.pdf" target="_blank" rel="noopener noreferrer">View report PDF</a>
 <br><a href="https://github.com/JustinePile/Project_1/" target="_blank" rel="noopener noreferrer">View code on GitHub</a>
@@ -16,9 +16,9 @@ Group project where we used Python dataframes and Matplotlib visualizations to a
 ### Evaluating various establishments across the United Kingdom using PyMongo
 The scenario for this project was to evaluate some ratings data in order to help journalists and food critics decide where to focus future articles. Uses a JSON file to create a MongoDB database and then PyMongo in a Jupyter Notebook to anlayze the database.
 
-![PyMongo](images/no_sql.png)   
+![PyMongo project](images/no_sql.png)   
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <a href="https://github.com/JustinePile/nosql-challenge" target="_blank" rel="noopener noreferrer">View code on GitHub</a>
 
@@ -42,7 +42,7 @@ WeatherPy utilizes the OpenWeatherMap API to collect data for analysis of relati
 
 ![OpenWeatherMap API usage](images/APIs.png)    
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 	![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 <a href="https://github.com/JustinePile/python-api-challenge/blob/main/WeatherPy/WeatherPy.ipynb" target="_blank" rel="noopener noreferrer">View WeatherPy Notebook</a>
 <br><a href="https://github.com/JustinePile/python-api-challenge/blob/main/VacationPy/VacationPy.ipynb" target="_blank" rel="noopener noreferrer">View VacationPy Notebook</a>
