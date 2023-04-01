@@ -1,5 +1,14 @@
 ## Selected projects in data science, machine learning and software engineering
 ---
+### Plotly Dashboard that explores the 'Belly Button Biodiversity' dataset
+This Plotly Dashboard was created using JavaScript with HTML and CSS and it explores the 'Belly Button Biodiversity' dataset which catalogs the microbes that colonize human navels.
+
+![Plotly Dashboard](images/BellyButtonPlotly.png)
+
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
 ### An analysis of the impact of social determinants of health on COVID-19 case rates in California
 
 Group project where we used Python dataframes and Matplotlib visualizations to analyze the impact of three social determinants of health (insurance, crowding, and income) on COVID-19 cases. For this project, I performed initial data manipulation and created the visualizations.
@@ -72,4 +81,3 @@ A brief report of NYC EITC total claims, total credit amount claimed, and averag
 
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
-<!-- [![](https://img.shields.io/badge/R-white?logo=R)](#) [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#) [![](https://img.shields.io/badge/LIME-white?logo=LIME)](#) [![](https://img.shields.io/badge/SHAP-white?logo=SHAP)](#) [![](https://img.shields.io/badge/Anaconda-white?logo=anaconda)](#) [![](https://img.shields.io/badge/Geopandas-white?logo=Geopandas)](#) [![](https://img.shields.io/badge/Bash-white?logo=GNUbash)](#) [![](https://img.shields.io/badge/MongoDB-white?logo=mongodb)](#) -->
