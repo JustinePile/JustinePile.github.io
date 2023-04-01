@@ -1,5 +1,7 @@
 ## Selected projects in data science, machine learning and software engineering
+
 ---
+
 ### Plotly Dashboard that explores the 'Belly Button Biodiversity' dataset
 This Plotly Dashboard was created using JavaScript with HTML and CSS and it explores the 'Belly Button Biodiversity' dataset which catalogs the microbes that colonize human navels.
 
@@ -23,6 +25,20 @@ Group project where we used Python dataframes and Matplotlib visualizations to a
 
 <a href="https://github.com/JustinePile/Project_1/blob/main/Project%201%20Slide%20Deck.pdf" target="_blank" rel="noopener noreferrer">View report PDF</a>
 <br><a href="https://github.com/JustinePile/Project_1/" target="_blank" rel="noopener noreferrer">View code on GitHub</a>
+
+---
+
+### PowerBI report of NYC EITC and Manhattan home sales
+
+A brief report of NYC EITC total claims, total credit amount claimed, and average credit recieved, along with a brief report of Manhattan home sales by neighborhood.
+
+![PowerBI report](images/PowerBI.png)   
+
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+
+<a href="https://github.com/JustinePile/Power_BI/blob/main/Predictive%20Data%20Lab.pdf" target="_blank" rel="noopener noreferrer">View report PDF</a>
+<br><a href="https://github.com/JustinePile/Power_BI" target="_blank" rel="noopener noreferrer">View code on GitHub</a>
 
 ---
 
@@ -71,17 +87,7 @@ VBA Excel script to loop through a spreadsheet of stock data and give various ou
 
 <a href="https://github.com/JustinePile/VBA-challenge" target="_blank" rel="noopener noreferrer">View code on GitHub</a>
 
----
 
-### PowerBI report of NYC EITC and Manhattan home sales
-
-A brief report of NYC EITC total claims, total credit amount claimed, and average credit recieved, along with a brief report of Manhattan home sales by neighborhood.
-
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-
-<a href="https://github.com/JustinePile/Power_BI/blob/main/Predictive%20Data%20Lab.pdf" target="_blank" rel="noopener noreferrer">View report PDF</a>
-<br><a href="https://github.com/JustinePile/Power_BI" target="_blank" rel="noopener noreferrer">View code on GitHub</a>
 
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
