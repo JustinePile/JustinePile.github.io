@@ -3,6 +3,18 @@
 ---
 
 ### Plotly Dashboard that explores the 'Belly Button Biodiversity' dataset
+This Leaflet map displays USGS earthquake data for the last 30 days, with marker size dependant on magnitude and color scale depedant on depth of earthquake. 
+![Leaflet Map](images/LeafletMap.png)
+
+![Leaflet](https://img.shields.io/static/v1?style=for-the-badge&message=Leaflet&color=199900&logo=Leaflet&logoColor=FFFFFF&label=) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+<a href="https://justinepile.github.io/belly-button-challenge" target="_blank" rel="noopener noreferrer">View Dashboard</a>   
+<a href="https://github.com/JustinePile/belly-button-challenge" target="_blank" rel="noopener noreferrer">View Code on Github</a>
+<br>
+
+---
+
+### Plotly Dashboard that explores the 'Belly Button Biodiversity' dataset
 This Plotly Dashboard was created using JavaScript with HTML and CSS and it explores the 'Belly Button Biodiversity' dataset which catalogs the microbes that colonize human navels.
 
 ![Plotly Dashboard](images/BellyButtonPlotly.png)
