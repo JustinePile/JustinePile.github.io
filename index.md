@@ -3,7 +3,7 @@
 ---
 
 ### Heart failure prediction based on clinical features   
-As a group, we created a Plotly dashboard in JavaScript to analyze clinical features of heart failure to better understand their relationship with each other 
+As a group, we created a Plotly dashboard in JavaScript to analyze clinical features of heart failure to better understand their relationship with each other. My principal contributions were the HTML, CSS (forked from Bootstrap), and the third plot.
  
 ![Group project plotly dashboard](images/Project3.PNG)
 
