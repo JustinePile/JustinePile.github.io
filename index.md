@@ -3,13 +3,13 @@
 ---
 
 ### Heart failure prediction based on clinical features   
-As a group, we created a Plotly dashboard in JavaScript to analyze clinical features of heart failure to better understand their relationship with each other. My principal contributions were the HTML, CSS (forked from Bootstrap), and the third plot.
+As a group, we created a Plotly dashboard in JavaScript to analyze clinical features of heart failure to better understand their relationship with each other. My principal contributions were most of the HTML and CSS (forked from Bootstrap), along with the third plot.
  
 ![Group project plotly dashboard](images/Project3.PNG)
 
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
-<em>Please give the dashboard website a moment or two to load as the Flask API it uses is hosted on a free &#40;slow&#41; Render service and typically takes about 30 seconds to load on my connection</em>    
+<em>Please give the dashboard website a moment or two to load as the Flask API it uses is hosted on a free &#40;slow&#41; Render service</em>    
 <a href="https://justinepile.github.io/Project3_clone/templates/" target="_blank" rel="noopener noreferrer">View  Dashboard</a>   
 <a href="https://github.com/Npack08/Project_3" target="_blank" rel="noopener noreferrer">View Code on Github</a>
 <br>
